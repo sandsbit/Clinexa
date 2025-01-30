@@ -9,17 +9,17 @@ this project in a few years if interested.
 
 ## License
 
-![GNU GPL v3 logo](https://www.gnu.org/graphics/gplv3-127x51.png)
+![GNU AGPL v3 logo]([https://www.gnu.org/graphics/agplv3-155x51.png)
 
-The project is distributed under GPL v3 license EXCEPT for some internal libraries that are licensed under LGPL v3. Some code may have other licenses, which however must be compatible with (L)GPL v3.
+The project is distributed under AGPL v3 license EXCEPT for some internal libraries that are licensed under LGPL v3. Some code may have other licenses, which however must be compatible with (L/A)GPL v3.
 
 Check the header of each file to be sure under which license it can be used.
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU (Lesser) General Public License as published by the Free Software Foundation,
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero/Lesser General Public License as published by the Free Software Foundation,
 either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU (General Public License for more details.
+See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
