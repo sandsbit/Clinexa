@@ -9,7 +9,7 @@ this project in a few years if interested.
 
 ## License
 
-![GNU AGPL v3 logo]([https://www.gnu.org/graphics/agplv3-155x51.png)
+![GNU AGPL v3 logo](https://www.gnu.org/graphics/agplv3-155x51.png)
 
 The project is distributed under AGPL v3 license EXCEPT for some internal libraries that are licensed under LGPL v3. Some code may have other licenses, which however must be compatible with (L/A)GPL v3.
 
